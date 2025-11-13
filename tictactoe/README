@@ -1,0 +1,39 @@
+# Tic Tac Toe
+
+This is a simple **Tic Tac Toe** game where you play against the computer.  
+The game features a pink-themed interface, easy controls, and smooth logic for a quick match anytime.
+
+---
+
+## Features
+- Single-player mode (you vs the computer)  
+- Clean pink UI design  
+- Automatic win and draw detection  
+- Restart option to play again instantly  
+- Lightweight and easy to run
+
+---
+
+## How to Play
+1. Run the game.  
+2. Choose your move (X or O) by clicking on the grid.  
+3. The computer will make its move automatically.  
+4. The first to get three in a row wins.  
+5. Restart the game to play again.
+
+---
+
+## Tech Stack
+- **Language:** Python  
+- **Library:** pygame (for graphics and interface)
+
+---
+
+## Setup Instructions
+1. Make sure Python and pygame are installed:
+   ```bash
+   pip install pygame
+
+Run the game:
+python runner.py
+
